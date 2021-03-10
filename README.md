@@ -1,6 +1,6 @@
 # AI
 ## Activities and HW
-<h3>Branch and bound</h3><br>
+<h3>Branch and bound activity</h3><br>
 Algorithm that we are using to solve a TSP<br>
 it works similar to backtracking and try to find the tour at the minium cost<br>
 <Strong><h2>Graph</Strong></h2>
